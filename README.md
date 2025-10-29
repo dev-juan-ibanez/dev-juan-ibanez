@@ -1,27 +1,37 @@
 <div align="left">
 
-# 👨‍💻 Hi there :wave:, 
-### I'm Juan Ibanez  <img src="/assets/cat.gif" width="45" alt="Coding cat"/>
 
 
 
-**🎯 Passionate Developer | 🎓 Master's Student | 💻 Tech Enthusiast**
+<h1 align="left">Hi there 👋,<br/> I'm Juan Ibañez <img src="/assets/cat.gif" width="50" alt="Coding cat"></h1> 
+
+** 🎯 Passionate Developer | 🎓 Master's Student | 💻 Tech Enthusiast**
+
+## 🚀 Most used technologies
+<!-- MINI TECH STACK -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" title="Vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" title="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+</p>
+
+
+
 
 ## 🌟 About Me
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-  <tr>
-    <td style="vertical-align: top; padding: 10px 15px 10px 10px; min-width: 280px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;">
-      <strong>Hello! I'm Juan Ibanez</strong>, a 25-year-old passionate developer from Brazil.<br>
-      <strong>🎓 Education</strong>: BSc in Information Systems (UNDB) + Postgraduate in Software Engineering (Estácio)<br>
-      <strong>🎯 Currently</strong>: Pursuing Master's degree in Electrical Engineering at UFMA<br>
-      <strong>💡 Interests</strong>: Technology, Music, Books, and Series<br>
-      <strong>☕ Fun Fact</strong>: I believe coffee and code are the perfect pair!
-    </td>
-    <td style="vertical-align: middle; text-align: center; padding: 10px 10px 10px 0;">
-      <img src="/assets/cat-work.gif" width="220" alt="Cat working" style="max-width: 100%; height: auto; display: block;">
-    </td>
-  </tr>
-</table>
+<img align="right" src="/assets/cat-work.gif" alt="Gato trabalhando" width="200"/>
+
+Hey! I'm 25-year-old Brazilian full-stack dev, midnight debugging, and endless curiosity. When I'm not coding, I’m folding origami, hiking trails, hitting the gym, reading manhwas all to think differently and stay creative.
+- <strong>🎓 Education</strong>: BSc in Information Systems (UNDB);
+- <strong>🎓 Postgraduat</strong>: Software Engineering (Estácio);
+- <strong>🎯 Currently</strong>: Pursuing a Master's in Electrical Engineering at UFMA;
+- <strong>💡 Interests</strong>: Technology, Music, Books, and Series.
+- <strong>☕ Fun Fact</strong>: I believe coffee and code are the perfect pair!
+
 
 
 ## 🚀 Tech Stack
