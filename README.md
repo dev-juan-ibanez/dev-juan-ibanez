@@ -1,20 +1,27 @@
 <div align="left">
 
 # 👨‍💻 Hi there :wave:, 
-### I'm Juan Ibanez  <video src="/assets/cat1.mp4" width="45" autoplay loop muted playsinline alt="Coding cat"></video>
+### I'm Juan Ibanez  <img src="/assets/cat.gif" width="45" alt="Coding cat"/>
 
-<video src="/assets/catwork.mp4" width="220" autoplay loop muted playsinline alt="Cat working"></video>
+
 
 **🎯 Passionate Developer | 🎓 Master's Student | 💻 Tech Enthusiast**
 
 ## 🌟 About Me
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px; justify-content: center;">
 
+<div style="flex: 1; min-width: 300px;">
 Hello! I'm **Juan Ibanez**, a 25-year-old passionate developer from Brazil. 
 
 🎓 **Education**: BSc in Information Systems (UNDB) + Postgraduate in Software Engineering (Estácio)  
-🎯 **Currently**: Pursuing Master's degree at UFMA  
+🎯 **Currently**: Pursuing Master's degree in Electrical Engineering at UFMA  
 💡 **Interests**: Technology, Music, Books, and Series  
 ☕ **Fun Fact**: I believe coffee and code are the perfect pair!
+</div>
+
+<img src="/assets/cat-work.gif" width="220" alt="Cat working" style="max-width: 100%;"/>
+
+</div>
 
 ## 🚀 Tech Stack
 
