@@ -88,14 +88,15 @@ I'm open to collaborating on projects involving:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.juan.ibanez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-ibanez-df/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juan_ibanezf/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-9387-0704)
 
 ## 📊 GitHub Analytics
 
 <a href="https://github.com/dev-juan-ibanez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-juan-ibanez&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Juan's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-juan-ibanez&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" alt="Juan's GitHub stats"/>
 </a>
 <a href="https://github.com/dev-juan-ibanez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-juan-ibanez&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Juan's most used languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-juan-ibanez&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Juan's most used languages"/>
 </a>
 
 ## 📈 Contribution Graph
@@ -104,7 +105,7 @@ I'm open to collaborating on projects involving:
 
 ## 🎮 Snake Game
 
-<img src="https://raw.githubusercontent.com/dev-juan-ibanez/dev-juan-ibanez/output/snake.svg" alt="Snake game animation"/>
+<img src="https://raw.githubusercontent.com/dev-juan-ibanez/dev-juan-ibanez/output/snake.svg" alt="Snake game animation" style="filter: invert(0.1)"/>
 
 ---
 
