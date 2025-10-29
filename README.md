@@ -81,6 +81,7 @@ Hey! I'm 25-year-old Brazilian full-stack dev, midnight debugging, and endless c
 | Course | Certificate |
 |--------|-------------|
 | **Formação Lógica de Programação** | [View Certificate](https://www.dio.me/certificate/ZBGNIXTZ/share) |
+| **Formação Github Certification** | [View Certificate](https://www.dio.me/certificate/Y8CVMPYV/share) |
 
 ## 🤝 Collaboration
 
