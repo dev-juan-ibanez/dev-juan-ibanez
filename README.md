@@ -1,9 +1,9 @@
 <div align="left">
 
 # 👨‍💻 Hi there :wave:, 
-### I'm Juan Ibanez <img src="/assets/cat1.gif" width="45" alt="Coding cat">
+### I'm Juan Ibanez  <video src="/assets/cat1.mp4" width="45" autoplay loop muted playsinline alt="Coding cat"></video>
 
-<img src="/assets/catwork.gif" width="220" alt="Cat working"/>
+<video src="/assets/catwork.mp4" width="220" autoplay loop muted playsinline alt="Cat working"></video>
 
 **🎯 Passionate Developer | 🎓 Master's Student | 💻 Tech Enthusiast**
 
