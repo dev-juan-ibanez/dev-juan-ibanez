@@ -8,20 +8,21 @@
 **🎯 Passionate Developer | 🎓 Master's Student | 💻 Tech Enthusiast**
 
 ## 🌟 About Me
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px; justify-content: center;">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; padding: 10px 15px 10px 10px; min-width: 280px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;">
+      <strong>Hello! I'm Juan Ibanez</strong>, a 25-year-old passionate developer from Brazil.<br>
+      <strong>🎓 Education</strong>: BSc in Information Systems (UNDB) + Postgraduate in Software Engineering (Estácio)<br>
+      <strong>🎯 Currently</strong>: Pursuing Master's degree in Electrical Engineering at UFMA<br>
+      <strong>💡 Interests</strong>: Technology, Music, Books, and Series<br>
+      <strong>☕ Fun Fact</strong>: I believe coffee and code are the perfect pair!
+    </td>
+    <td style="vertical-align: middle; text-align: center; padding: 10px 10px 10px 0;">
+      <img src="/assets/cat-work.gif" width="220" alt="Cat working" style="max-width: 100%; height: auto; display: block;">
+    </td>
+  </tr>
+</table>
 
-<div style="flex: 1; min-width: 300px;">
-Hello! I'm **Juan Ibanez**, a 25-year-old passionate developer from Brazil. 
-
-🎓 **Education**: BSc in Information Systems (UNDB) + Postgraduate in Software Engineering (Estácio)  
-🎯 **Currently**: Pursuing Master's degree in Electrical Engineering at UFMA  
-💡 **Interests**: Technology, Music, Books, and Series  
-☕ **Fun Fact**: I believe coffee and code are the perfect pair!
-</div>
-
-<img src="/assets/cat-work.gif" width="220" alt="Cat working" style="max-width: 100%;"/>
-
-</div>
 
 ## 🚀 Tech Stack
 
