@@ -5,7 +5,7 @@
 
 <h1 align="left">Hi there 👋,<br/> I'm Juan Ibañez <img src="/assets/cat.gif" width="50" alt="Coding cat"></h1> 
 
-** 🎯 Passionate Developer | 🎓 Master's Student | 💻 Tech Enthusiast**
+ 🎯 **Passionate Developer** | 🎓 **Master's Student** | 💻 **Tech Enthusiast**
 
 
 
