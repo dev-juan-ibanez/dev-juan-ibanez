@@ -19,9 +19,6 @@ Hey! I'm a 25-year-old Brazilian full-stack developer, researcher at UFMA, and e
 - <strong>🎯 Currently</strong>: Pursuing a Master's in Electrical Engineering at UFMA;
 - <strong>💡 Interests</strong>: Technology, Music, Books, and Series.
 - <strong>☕ Fun Fact</strong>: I believe coffee and code are the perfect pair!
- 
-## 🐱 Cat programming!
-<img  src="/assets/cat-work.gif" alt="Gato trabalhando" width="200"/>
 
 ## 🚀 Most used technologies
 <!-- MINI TECH STACK -->
@@ -35,6 +32,9 @@ Hey! I'm a 25-year-old Brazilian full-stack developer, researcher at UFMA, and e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
 </p>
 
+
+## 🐱 Cat programming!
+<img  src="/assets/cat-work.gif" alt="Gato trabalhando" width="200"/>
 
 ## 🚀 Tech Stack
 
