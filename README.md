@@ -11,15 +11,16 @@
 
 
 
-## 🌟 About Me
-<img align="right" src="/assets/cat-work.gif" alt="Gato trabalhando" width="200"/>
 
-Hey! I'm 25-year-old Brazilian full-stack dev, midnight debugging, and endless curiosity. When I'm not coding, I’m folding origami, hiking trails, hitting the gym, reading manhwas all to think differently and stay creative.
+## 🌟 About Me
+Hey! I'm a 25-year-old Brazilian full-stack developer, researcher at UFMA, and endlessly curious. When I'm not coding, I'm folding origami, hiking trails, hitting the gym, and reading manhwas - all to think differently and stay creative.
 - <strong>🎓 Education</strong>: BSc in Information Systems (UNDB);
 - <strong>🎓 Postgraduat</strong>: Software Engineering (Estácio);
 - <strong>🎯 Currently</strong>: Pursuing a Master's in Electrical Engineering at UFMA;
 - <strong>💡 Interests</strong>: Technology, Music, Books, and Series.
 - <strong>☕ Fun Fact</strong>: I believe coffee and code are the perfect pair!
+  
+<img  src="/assets/cat-work.gif" alt="Gato trabalhando" width="200"/>
 
 ## 🚀 Most used technologies
 <!-- MINI TECH STACK -->
@@ -82,6 +83,8 @@ Hey! I'm 25-year-old Brazilian full-stack dev, midnight debugging, and endless c
 |--------|-------------|
 | **Formação Lógica de Programação** | [View Certificate](https://www.dio.me/certificate/ZBGNIXTZ/share) |
 | **Formação Github Certification** | [View Certificate](https://www.dio.me/certificate/Y8CVMPYV/share) |
+| **Formação HTML Web Developer** | [View Certificate](https://www.dio.me/certificate/SZBPTGEA/share) |
+
 
 ## 🤝 Collaboration
 
@@ -117,7 +120,7 @@ I'm open to collaborating on projects involving:
 
 ## 🎮 Snake Game
 
-<img src="https://raw.githubusercontent.com/dev-juan-ibanez/dev-juan-ibanez/output/snake.svg" alt="Snake game animation" style="filter: invert(0.1)"/>
+<img src="https://raw.githubusercontent.com/dev-juan-ibanez/dev-juan-ibanez/output/snake.svg" alt="Snake game animation"/>
 
 ---
 
