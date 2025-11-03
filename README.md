@@ -100,10 +100,11 @@ I'm open to collaborating on projects involving:
 
 ## 📫 Get in Touch
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.juan.ibanez@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-ibanez-df/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juan_ibanezf/)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-9387-0704)
+- **Professional**: [LinkedIn](https://www.linkedin.com/in/juan-ibanez-df/)
+- **Academic**: [ORCID](https://orcid.org/0009-0001-9387-0704)
+- **Email**: dev.juan.ibanez@gmail.com
+- **Social**: [Instagram](https://www.instagram.com/juan_ibanezf/)
+
 
 ## 📊 GitHub Analytics
 
