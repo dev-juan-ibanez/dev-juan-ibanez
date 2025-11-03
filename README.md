@@ -77,14 +77,13 @@ Hey! I'm a 25-year-old Brazilian full-stack developer, researcher at UFMA, and e
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-## 📜 Certifications
+## 📜 5 Latest Certifications 
 
 | Course | Certificate |
 |--------|-------------|
+| **Formação HTML Web Developer** | [View Certificate](https://www.dio.me/certificate/SZBPTGEA/share) |
 | **Formação Lógica de Programação** | [View Certificate](https://www.dio.me/certificate/ZBGNIXTZ/share) |
 | **Formação Github Certification** | [View Certificate](https://www.dio.me/certificate/Y8CVMPYV/share) |
-| **Formação HTML Web Developer** | [View Certificate](https://www.dio.me/certificate/SZBPTGEA/share) |
-
 
 ## 🤝 Collaboration
 
