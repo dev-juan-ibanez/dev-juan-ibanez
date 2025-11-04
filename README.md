@@ -19,7 +19,7 @@ Hello! I'm **Juan Ibanez**, a 25-year-old passionate developer from Brazil.
 ☕ **Fun Fact**: I believe coffee and code are the perfect pair!
 </div>
 
-<img src="/assets/cat-work.gif" width="220" alt="Cat working" style="max-width: 100%;"/>
+<img src="/assets/cat-programmer.gif" width="220" alt="Cat working" style="max-width: 100%;"/>
 
 </div>
 
