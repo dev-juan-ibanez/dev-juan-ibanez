@@ -1,11 +1,16 @@
 <div align="left">
 
-# 👨‍💻 Hi there :wave:, 
-### I'm Juan Ibanez  <img src="/assets/cat.gif" width="45" alt="Coding cat"/>
 
 
 
-**🎯 Passionate Developer | 🎓 Master's Student | 💻 Tech Enthusiast**
+<h1 align="left">Hi there 👋,<br/> I'm Juan Daniel Ferreira Ibanez <img src="/assets/cat.gif" width="50" alt="Coding cat"></h1> 
+
+ 🎯 **Passionate Developer** | 🎓 **Master's Student** | 💻 **Tech Enthusiast**
+
+
+
+
+
 
 ## 🌟 About Me
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px; justify-content: center;">
@@ -65,11 +70,13 @@ Hello! I'm **Juan Ibanez**, a 25-year-old passionate developer from Brazil.
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-## 📜 Certifications
+## 📜 5 Latest Certifications 
 
 | Course | Certificate |
 |--------|-------------|
+| **Formação HTML Web Developer** | [View Certificate](https://www.dio.me/certificate/SZBPTGEA/share) |
 | **Formação Lógica de Programação** | [View Certificate](https://www.dio.me/certificate/ZBGNIXTZ/share) |
+| **Formação Github Certification** | [View Certificate](https://www.dio.me/certificate/Y8CVMPYV/share) |
 
 ## 🤝 Collaboration
 
@@ -85,17 +92,19 @@ I'm open to collaborating on projects involving:
 
 ## 📫 Get in Touch
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.juan.ibanez@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-ibanez-df/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juan_ibanezf/)
+- **Professional**: [LinkedIn](https://www.linkedin.com/in/juan-ibanez-df/)
+- **Academic**: [ORCID](https://orcid.org/0009-0001-9387-0704)
+- **Email**: dev.juan.ibanez@gmail.com
+- **Social**: [Instagram](https://www.instagram.com/juan_ibanezf/)
+
 
 ## 📊 GitHub Analytics
 
 <a href="https://github.com/dev-juan-ibanez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-juan-ibanez&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Juan's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-juan-ibanez&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" alt="Juan's GitHub stats"/>
 </a>
 <a href="https://github.com/dev-juan-ibanez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-juan-ibanez&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Juan's most used languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-juan-ibanez&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Juan's most used languages"/>
 </a>
 
 ## 📈 Contribution Graph
