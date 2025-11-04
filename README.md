@@ -13,20 +13,28 @@
 
 
 ## 🌟 About Me
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px; justify-content: center;">
+Hey! I'm a 25-year-old Brazilian full-stack developer, researcher at UFMA, and endlessly curious. When I'm not coding, I'm folding origami, hiking trails, hitting the gym, and reading manhwas - all to think differently and stay creative.
+- <strong>🎓 Education</strong>: BSc in Information Systems (UNDB);
+- <strong>🎓 Postgraduat</strong>: Software Engineering (Estácio);
+- <strong>🎯 Currently</strong>: Pursuing a Master's in Electrical Engineering at UFMA;
+- <strong>💡 Interests</strong>: Technology, Music, Books, and Series.
+- <strong>☕ Fun Fact</strong>: I believe coffee and code are the perfect pair!
 
-<div style="flex: 1; min-width: 300px;">
-Hello! I'm **Juan Ibanez**, a 25-year-old passionate developer from Brazil. 
+## 🚀 Most used technologies
+<!-- MINI TECH STACK -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" title="Vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" title="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+</p>
 
-🎓 **Education**: BSc in Information Systems (UNDB) + Postgraduate in Software Engineering (Estácio)  
-🎯 **Currently**: Pursuing Master's degree in Electrical Engineering at UFMA  
-💡 **Interests**: Technology, Music, Books, and Series  
-☕ **Fun Fact**: I believe coffee and code are the perfect pair!
-</div>
 
-<img src="/assets/cat-programmer.gif" width="220" alt="Cat working" style="max-width: 100%;"/>
-
-</div>
+## ⚠️ Caution! Cat programming!
+<img  src="/assets/cat-programmer.gif" alt="Gato trabalhando" width="200"/>
 
 ## 🚀 Tech Stack
 
