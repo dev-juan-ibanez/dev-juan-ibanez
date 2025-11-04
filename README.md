@@ -33,7 +33,7 @@ Hey! I'm a 25-year-old Brazilian full-stack developer, researcher at UFMA, and e
 </p>
 
 
-## ⚠️ Caution! 🐱 Cat programming!
+## ⚠️ Caution! Cat programming!
 <img  src="/assets/cat-work.gif" alt="Gato trabalhando" width="200"/>
 
 ## 🚀 Tech Stack
