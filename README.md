@@ -82,11 +82,13 @@ Hey! I'm a 25-year-old Brazilian full-stack developer, researcher at UFMA, and e
 
 | Course | Certificate |
 |--------|-------------|
-| **Formação HTML Web Developer** | [View Certificate](https://www.dio.me/certificate/SZBPTGEA/share) |
 | **Formação Lógica de Programação** | [View Certificate](https://www.dio.me/certificate/ZBGNIXTZ/share) |
 | **Formação Github Certification** | [View Certificate](https://www.dio.me/certificate/Y8CVMPYV/share) |
 | **Formação CSS Web Developer** | [View Certificate](https://www.dio.me/certificate/13LRJ84X/share) |
 | **Formação Linux Fundamentals** | [View Certificate](https://www.dio.me/certificate/POSJ0SZ1/share) |
+| **Formação Scrum Master Certification** | [View Certificate](https://www.dio.me/certificate/RTPD6XHH/share) |
+
+
 
 
 ## 🤝 Collaboration
