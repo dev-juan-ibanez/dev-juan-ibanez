@@ -122,7 +122,7 @@ I'm open to collaborating on projects involving:
 
 ## 📈 Contribution Graph
 
-<img src="https://ghchart.rshah.org/00FF00/dev-juan-ibanez" alt="Juan's GitHub contributions chart" style="border-radius: 10px;"/>
+<img src="https://ghchart.rshah.org/228B22/dev-juan-ibanez" alt="Juan's GitHub contributions chart" style="border-radius: 10px;"/>
 
 ## 🎮 Snake Game
 
