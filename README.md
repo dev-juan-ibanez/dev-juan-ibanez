@@ -1,6 +1,8 @@
 <div align="left">
 <h1 align="left">Hi there 👋,<br/> I'm Juan Daniel Ferreira Ibanez <img src="/assets/cat.gif" width="50" alt="Coding cat"></h1>
+ 
  🎯 **Passionate Developer** | 🎓 **Master in Electrical Engineering** | 💻 **Tech Enthusiast**
+ 
 ## 🌟 About Me
 Hey! I'm a 25-year-old Brazilian full-stack developer, researcher at UFMA, and endlessly curious. When I'm not coding, I'm folding origami, hiking trails, hitting the gym, and reading manhwas - all to think differently and stay creative.
 
