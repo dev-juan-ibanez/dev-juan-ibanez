@@ -88,18 +88,7 @@ I'm open to collaborating on projects involving:
 - **Email**: dev.juan.ibanez@gmail.com
 - **Social**: [Instagram](https://www.instagram.com/juan_ibanezf/)
 
-## 📊 GitHub Analytics
-<a href="https://github.com/dev-juan-ibanez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-juan-ibanez&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" alt="Juan's GitHub stats"/>
-</a>
-<a href="https://github.com/dev-juan-ibanez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-juan-ibanez&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Juan's most used languages"/>
-</a>
-
-## 📈 Contribution Graph
-<img src="https://ghchart.rshah.org/228B22/dev-juan-ibanez" alt="Juan's GitHub contributions chart" style="border-radius: 10px;"/>
-
-## 🎮 Snake Game
+## 🎮 Snake Game Commits
 <img src="https://raw.githubusercontent.com/dev-juan-ibanez/dev-juan-ibanez/output/snake.svg" alt="Snake game animation"/>
 
 ---
