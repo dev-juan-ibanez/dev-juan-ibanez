@@ -4,7 +4,7 @@
  🎯 **Passionate Developer** | 🎓 **Master in Electrical Engineering** | 💻 **Tech Enthusiast**
  
 ## 🌟 About Me
-Hey! I'm a 25-year-old Brazilian full-stack developer, researcher at UFMA, and endlessly curious. When I'm not coding, I'm folding origami, hiking trails, hitting the gym, and reading manhwas - all to think differently and stay creative.
+Hey! I'm a 26-year-old Brazilian full-stack developer and endlessly curious. When I'm not coding, I'm folding origami, hiking trails, hitting the gym, and reading manhwas - all to think differently and stay creative.
 
 - <strong>🎓 Education</strong>: BSc in Information Systems (UNDB)
 - <strong>🎓 Postgraduate</strong>: Software Engineering (Estácio)
